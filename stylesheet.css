@@ -1,0 +1,11 @@
+Body{
+    text-align: center;
+     }
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    }
+footer{
+    background-color: lightskyblue;
+    float: initial;
+}
